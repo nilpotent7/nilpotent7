@@ -34,7 +34,7 @@
       </picture>
     </td>
     <td align="center"">
-      <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunknown-007&hide=Rich%20Text%20Format,glsl,c&show_icons=true&theme=radical"/>
+      <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunknown-007&hide=Rich%20Text%20Format,glsl,c&show_icons=true&theme=holi&layout=donut"/>
     </td>
   </tr>
 </table>
