@@ -1,7 +1,7 @@
 ![Latest Artwork](https://github.com/TheUnknown-007/TheUnknown-007/blob/main/Left%20Sunset%20FInal.png?raw=true)
 
-<h1 align="center">Hi, I'm Behroz Khan! 👋 </h1>
-<p align="center"> I'm a passionate self-taught Game Designer & Programmer with a deep interest in creating engaging & memorable experiences, and I have strong foundation in low level programming and system development.​ </p>
+<h1 align="center">Hi, I'm Behroz Khan! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> </h1>
+<p align="center"> I'm a passionate self-taught <b>Game Designer</b> & <b>Programmer</b> with a deep interest in creating engaging & memorable experiences.<br>I have also worked with <b>neural networks</b>, <b>rendering algorithms</b>, <b>GPU Compute Shaders</b>, <b>sentimental analysis</b>, <b>networking</b>, etc. </p>
 
 <table align="center"">
   <tr>
@@ -24,17 +24,19 @@
   </tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheUnknown-007/TheUnknown-007/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheUnknown-007/TheUnknown-007/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <table align="center"">
   <tr>
     <td align="center"">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheUnknown-007/TheUnknown-007/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheUnknown-007/TheUnknown-007/refs/heads/output/github-contribution-grid-snake.svg" />
-        <img alt="github-snake" src="github-snake.svg" />
-      </picture>
+      <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunknown-007&hide=Rich%20Text%20Format,glsl,c&show_icons=true&theme=holi&layout=donut"/>
     </td>
     <td align="center"">
-      <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunknown-007&hide=Rich%20Text%20Format,glsl,c&show_icons=true&theme=holi&layout=donut"/>
+      <img alt="stats" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/>
     </td>
   </tr>
 </table>
