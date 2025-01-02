@@ -30,6 +30,8 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<br><br>
+
 <table align="center"">
   <tr>
     <td align="center"">
