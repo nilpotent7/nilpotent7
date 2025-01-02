@@ -33,7 +33,7 @@
 <table align="center"">
   <tr>
     <td align="center"">
-      <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunknown-007&hide=Rich%20Text%20Format,glsl,c&show_icons=true&theme=holi&layout=donut"/>
+      <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunknown-007&hide=Rich%20Text%20Format,glsl,shaderlab,c&show_icons=true&theme=holi&layout=donut"/>
     </td>
     <td align="center"">
       <img alt="stats" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/>
