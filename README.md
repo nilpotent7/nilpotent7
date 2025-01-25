@@ -1,7 +1,7 @@
-![Latest Artwork](https://github.com/nilpotent7/nilpotent7/blob/main/Artwork.png?raw=true)
+![Latest Artwork](https://github.com/nilpotent7/nilpotent7/blob/main/Artwork.jpg?raw=true)
 
 <h1 align="center">Hi, I'm Behroz Khan! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> </h1>
-<p align="center"> I'm a passionate self-taught <b>Game Designer</b> & <b>Programmer</b> with a deep interest in creating engaging & memorable experiences.<br>I have also worked with <b>neural networks</b>, <b>rendering algorithms</b>, <b>GPU Compute Shaders</b>, <b>sentimental analysis</b>, <b>networking</b>, etc. </p>
+<p align="center"> I'm a passionate self-taught <b>Game Developer</b> & <b>Programmer</b> with an interest in creating engaging & memorable experiences.<br>I have also worked with <b>Neural Networks</b>, <b>Sentimental Analysis</b>, <b>Networking</b>, <b>Rendering Algorithms</b>, <b>GPU Compute Shaders</b>, etc. </p>
 
 <table align="center"">
   <tr>
