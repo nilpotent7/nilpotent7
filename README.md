@@ -1,23 +1,38 @@
 ![Latest Artwork](https://github.com/nilpotent7/nilpotent7/blob/main/Artwork.jpg?raw=true)
 
 <h1 align="center">Hi, I'm Behroz Khan! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> </h1>
-<p align="center"> I'm a passionate self-taught <b>Game Developer</b> & <b>Programmer</b> with an interest in creating engaging & memorable experiences.<br>I have also worked with <b>Neural Networks</b>, <b>Sentimental Analysis</b>, <b>Networking</b>, <b>Rendering Algorithms</b>, <b>GPU Compute Shaders</b>, etc. </p>
+<p align="center">
+  I'm a <b>Software Engineer</b> and <b>Game Developer</b>, with 6 years of experience delivering end-to-end software solutions, combining system-design expertise and attention to detail.
+  <br>I'm now expanding to <b>Artificial Inteligence</b>, bringing my system-design expertise toward deploying AI solutions and developing Machine Learning Systems.
+  <br>Over the 6 years, I've developed Neural Networks, Advanced Analytical Tools (including NLP & Sentiment analysis), high performance Rendering Algorithms (Raytracing & Raymarching), GPU-accelerated Parallel Computing tasks, Web Automation systems, and custom integrations with external webhooks from platforms like Discord.
+</p>
 
-<table align="center"">
+<table align="center">
   <tr>
-    <td align="center"">
+    <td align="center">
       <h3>💻 Languages</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=cs,py,js,c,cpp,java,dotnet" alt="Languages"/>
+          <img src="https://skillicons.dev/icons?i=py,cs,cpp,c,ts,js,java,tailwind" alt="Languages"/>
         </a>
       </p>
     </td>
-    <td align="center"">
+    <td align="center">
       <h3>🛠️ Tools</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=unity,unreal,visualstudio,blender,github" alt="Tools"/>
+          <img src="https://skillicons.dev/icons?i=unity,unreal,visualstudio,blender,github,git" alt="Tools"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+      <h3>📦 Technologies</h3>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vercel,react,nodejs,nextjs,supabase,kali,ubuntu,selenium,qt,postgres,dotnet,mongodb,linux,gtk,discordjs" alt="Stack"/>
         </a>
       </p>
     </td>
