@@ -6,8 +6,37 @@
   <br>I'm now expanding into <b>Artificial Inteligence</b>, bringing my system-design expertise toward deploying AI solutions & Machine Learning Systems.
 </p>
 <p>
-  Over the past 6 years, I've developed & commercially released seven video games, and deployed numerous production-grade software solutions.
-  I've developed Neural Networks, Advanced Analytical Tools (including NLP & Sentiment analysis), high performance Rendering Algorithms (Raytracing & Raymarching), GPU-accelerated Parallel Computing tasks, Web Automation systems, Web Apps, Native Desktop Apps, and custom integrations with external webhooks from platforms like Discord.
+  Over the past 6 years, I've developed numerous production-grade software solutions, and successfully released 7 video game titles.
+  <table align="center">
+    <tr>
+      <td>
+        <ul>
+          <li>
+              Neural Networks
+          </li>
+          <li>
+              Advanced Analytical Tools (NLP & Sentiment)
+          </li>
+          <li>
+              Rendering Algorithms (Raytracing & Raymarching)
+          </li>
+        </ul>
+      </td>
+      <td>
+          <ul>
+            <li>
+                GPU-accelerated Parallel Computing
+            </li>
+            <li>
+                Web Apps & Native Desktop Apps
+            </li>
+            <li>
+                Web Automation systems & webhooks integrations
+            </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <br>
