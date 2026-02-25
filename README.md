@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Behroz Khan! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> </h1>
 <p>
   I'm a <b>Software Engineer</b> and <b>Game Developer</b>, with 6 years of experience delivering end-to-end software solutions.
-  <br>I'm now expanding into <b>Artificial Inteligence</b>, bringing my system-design expertise toward deploying AI solutions & Machine Learning Systems.
+  <br>I'm now expanding into <b>Artificial Inteligence</b>, bringing my system-design expertise toward deploying AI & Machine Learning Systems.
 </p>
 <p>
   Over the past 6 years, I've developed numerous production-grade software solutions, and successfully released 7 video game titles.
